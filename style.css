@@ -1,0 +1,10 @@
+#ordenada {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(59, 13, 39);
+    background-color: rgb(255, 160, 160);
+}
+
+#nao-ordenada li::marker {
+color: rgb(90, 23, 61);
+background-color: rgb(248, 101, 194);
+}
